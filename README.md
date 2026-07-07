@@ -5,5 +5,5 @@ Block diagram.jpeg
 video.mp4
 
 ## Outputs
--output1.jpeg
+-output1.jpeg;
 -output2.jpeg
